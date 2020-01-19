@@ -17,7 +17,7 @@ How long they’ve been a customer, contract, payment method, paperless billing,
 Gender, age range, and if they have partners and dependents
 
 # Approach
-Analyze the impact of the demographics, subscribed services and other account related information in churn rate and identify the reason and kind of people who churn from the telecom services
+Analyze the impact of the demographics, subscribed services and other account related information in churn rate and identify the reason and kind of people who churn from the telecom services using Logistic Regression and Random Forest algorithms
 
 # Results
 #### Who churned and why?
